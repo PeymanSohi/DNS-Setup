@@ -1,4 +1,3 @@
-```markdown
 # 🌐 DNS Basics: Custom Domain Setup for GitHub Pages and DigitalOcean
 
 ## 📘 Overview
